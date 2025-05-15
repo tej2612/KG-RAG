@@ -199,7 +199,7 @@ Alternatively, experience it live by clicking the link below:
 ---
 ## 13. Contributors
 
-- [Tejas V Bhat](https://github.com/tej2612)
+- [Musadiq Pasha](https://github.com/MusadiqPasha)
 - [K Bhavish Raju](https://github.com/Bhavish1517)
 - [Ayush Muralidharan](https://github.com/AyushMuralidharan)
 
